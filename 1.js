@@ -1,1 +1,1 @@
-var a=12,b=14;
+console.log('hello world');
